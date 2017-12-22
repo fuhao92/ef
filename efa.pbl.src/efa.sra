@@ -37,5 +37,6 @@ event open;//1
 //123
 //hui
 //test
+//gg
 end event
 
